@@ -8,6 +8,7 @@ class Solution:
         #print(n)
         m=len(matrix[0])
         #print(m)
+        #donot use check=[0*m]*n
         check = [[0 for i in range(0,m)] for j in range(0,n)]
         #print(check)
         for i in range(0,n):
