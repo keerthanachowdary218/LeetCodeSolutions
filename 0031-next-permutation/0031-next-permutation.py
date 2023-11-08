@@ -45,8 +45,8 @@ class Solution:
         if(index==-1):
             nums.reverse()
         else:
-            print(nums)
-            print(index)
+            #print(nums)
+            #print(index)
             for i in range(n-1,index,-1):
                 if nums[i]>nums[index]:
                     #basically swapping- you can use swap function too.
