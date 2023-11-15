@@ -5,7 +5,8 @@
 #         self.next = next
 class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        n=0
+        #naive solution
+        '''n=0
         listt=head
         while(head):
             n=n+1
@@ -15,8 +16,14 @@ class Solution:
             for i in range(0,int(n/2)):
                 i=i+1
                 listt=listt.next
-        return listt
-    
+        return listt'''
+        #optimized
+        slow = head
+        fast = head
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+        return slow
                 
                 
         
