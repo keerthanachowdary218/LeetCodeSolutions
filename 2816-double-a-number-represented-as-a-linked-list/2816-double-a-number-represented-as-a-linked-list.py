@@ -54,5 +54,3 @@ class Solution:
         # Return the tail of the new linked list
         return new_tail
         
-            
-        
