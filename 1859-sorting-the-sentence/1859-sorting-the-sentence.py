@@ -5,7 +5,6 @@ class Solution:
         for i in splits:
             mapp[i[-1]]=i[:-1]
         mapp = dict(sorted(mapp.items()))
-        print(mapp)
         s=''
         count=0
         for i in mapp:
