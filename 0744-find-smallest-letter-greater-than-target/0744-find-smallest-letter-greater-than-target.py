@@ -6,4 +6,3 @@ class Solution:
             if i>target:
                 return i
         return letters[0]
-        
