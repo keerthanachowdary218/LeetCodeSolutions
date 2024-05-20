@@ -12,4 +12,3 @@ class Solution:
             for j in range(mapp[i]):
                 res.append(i)
         return res
-        
