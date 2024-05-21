@@ -7,4 +7,3 @@ class Solution:
             #there is a difference between append and extend , here we need to use extend insteas of append - check different between append and extend- append(single element) where as extend(iterable)
             k.extend(list(j) for j in itertools.combinations(nums,i))
         return (k)
-        
