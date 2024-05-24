@@ -10,11 +10,12 @@ class KthLargest:
         self.nums=self.nums[::-1]
         return self.nums[self.k-1]
      '''
+    #below uses minheap
     def __init__(self, k: int, nums: List[int]):
         self.k = k
         self.minHeap = []
         for num in nums:
-            heapq.heappush(self.minHeap, num)   # adding all elements to min heap
+            heapq.heappush(self.minHeap, num)
         while len(self.minHeap) > k:
             heapq.heappop(self.minHeap)         # Only keeping k maximum elements
 
@@ -26,6 +27,7 @@ class KthLargest:
             
         return self.minHeap[0]
     
+
 # Your KthLargest object will be instantiated and called as such:
 # obj = KthLargest(k, nums)
 # param_1 = obj.add(val)
