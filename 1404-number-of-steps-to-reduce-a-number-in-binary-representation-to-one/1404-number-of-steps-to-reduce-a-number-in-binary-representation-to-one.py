@@ -8,5 +8,5 @@ class Solution:
                 num+=1
             else:
                 num=num//2
-        return (count)
+        return count
         
