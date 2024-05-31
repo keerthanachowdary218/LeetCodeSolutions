@@ -28,6 +28,5 @@ Step 3: Partition numbers based on the rightmost set bit:
 Step 4: XOR numbers within each group:
 - Group 1: 2 ^ 2 ^ 3 = 3
 - Group 2: 1 ^ 1 ^ 5 = 5
-
 Result: [3, 5]
 '''
