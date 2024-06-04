@@ -6,16 +6,15 @@ class Solution:
                 mapp[i]+=1
             else:
                 mapp[i]=1
-        print(mapp)
         res=0 
-        flag=0
+        oddflag=0
         for i in mapp:
             if mapp[i]%2==0:
                 res+=mapp[i]
             else:
-                flag=1
+                oddflag=1
                 res+=(mapp[i]-1)
-        return (res+flag)
+        return (res+oddflag)
     
         
         
