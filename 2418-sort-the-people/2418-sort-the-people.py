@@ -22,5 +22,3 @@ class Solution:
             res.append(name)
         res=res[::-1]
         return res
-        
-        
