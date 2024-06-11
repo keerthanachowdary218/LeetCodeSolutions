@@ -5,7 +5,9 @@ Welcome to my LeetCode solutions repository! This repository contains all the Le
 This repository serves as a log of my daily LeetCode problem-solving practice. Each solution is uploaded here through the LeetHub extension, allowing me to track my progress over time.
 
 **Tools and Extensions**
+
 LeetHub: I use the LeetHub browser extension to sync my LeetCode solutions with this GitHub repository automatically.
+
 LeetCode: The platform where I solve the problems. You can visit my LeetCode profile here.
 
 **Contributions**
