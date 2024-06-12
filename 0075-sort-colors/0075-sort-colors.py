@@ -29,14 +29,11 @@ class Solution:
                 nums[z],nums[i]=nums[i],nums[z]
                 z=z+1
                 i=i+1
-                #print("0",nums)
             elif nums[i]==1:
                 i=i+1
             elif nums[i]==2:  
                 nums[i],nums[h]=nums[h],nums[i]
                 h=h-1
-         
-                #print("2",nums)
         #return ans
     
     
