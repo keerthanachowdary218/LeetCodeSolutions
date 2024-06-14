@@ -3,6 +3,7 @@ class Solution:
         nums.sort()
         numTracker = 0
         minIncreament = 0
+        #unique elements not the continuous elements.
         for num in nums:
             numTracker = max(numTracker, num)
             minIncreament += numTracker - num
