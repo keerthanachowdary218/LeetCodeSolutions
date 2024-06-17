@@ -3,6 +3,7 @@ class Solution:
         '''
         if c%2!=0:
             c=c-1
+        #below you checking if square of c exists or not
         for i in range(1,c+1):
             if i==(c/i):
                 return True
