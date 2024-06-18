@@ -19,7 +19,6 @@ class Solution:
                 queue.append((node.left, level + 1))
             if node.right:
                 queue.append((node.right, level + 1))
-        print(res)
         avgg=[]
         for i in res:
             summ=0
