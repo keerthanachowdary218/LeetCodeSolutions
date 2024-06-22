@@ -13,7 +13,7 @@ class Solution:
                 else:
                     res+='al'
                     i+=4
-            print(i)
+            #print(i)
         return res
             
                 
