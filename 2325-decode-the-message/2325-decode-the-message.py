@@ -8,8 +8,7 @@ class Solution:
                 #print(key[i])
                 hashh[key[i]]=alpha[currnt]
                 currnt+=1
-        
-        print(hashh)
+        #print(hashh)
         res=''
         for i in message:
             if i==' ':
