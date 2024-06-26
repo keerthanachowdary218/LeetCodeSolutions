@@ -21,6 +21,6 @@ class Solution:
             return node
 
         sorted_elements = in_order_traversal(root)
-        print(sorted_elements)
+        #print(sorted_elements)
         return build_balanced_bst(sorted_elements)
         
