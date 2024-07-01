@@ -8,7 +8,6 @@ class Solution:
             x=heapq.heappop(stones)
             y=heapq.heappop(stones)
             if x*(-1)!=y*(-1):
-                print(abs(x-y))
                 heapq.heappush(stones,abs(x-y)*(-1))
         if len(stones)==1:
             return stones[0]*(-1)
