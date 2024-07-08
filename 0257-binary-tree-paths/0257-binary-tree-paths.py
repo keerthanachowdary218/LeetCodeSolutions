@@ -14,7 +14,6 @@ class Solution:
                 path += "->" + str(node.val)
             else:
                 path = str(node.val)
-
             if not node.left and not node.right:
                 res.append(path)
                 return 
