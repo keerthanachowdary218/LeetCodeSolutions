@@ -5,8 +5,7 @@ class Solution:
         res=''
         for i in range(0,len(s)):
             if i%2!=0:
-                k=shift(s[i-1],int(s[i]))
-                res+=k
+                res+=shift(s[i-1],int(s[i]))
             else:
                 res+=s[i]
         return res
