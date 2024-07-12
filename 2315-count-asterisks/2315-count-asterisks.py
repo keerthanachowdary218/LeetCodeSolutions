@@ -6,5 +6,4 @@ class Solution:
                 t += 1
             elif t % 2 ==0:
                 ans += i=="*"
-
         return ans
