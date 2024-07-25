@@ -31,3 +31,4 @@ class Solution:
         sorted_arr = merge_sort(nums)
         return sorted_arr
         
+#we can do count sort as well which takes O(n) time complexity
