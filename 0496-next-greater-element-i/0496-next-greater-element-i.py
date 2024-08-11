@@ -16,6 +16,6 @@ class Solution:
                 if i==nums2[j]:
                     ans.append(res[j])
                     break
-        print(res,ans)
+        #print(res,ans)
         return ans
         
