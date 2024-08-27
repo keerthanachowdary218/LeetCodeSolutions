@@ -2,7 +2,7 @@ class Solution:
     def maxProbability(self, n: int, edges: List[List[int]], succProb: List[float], start_node: int, end_node: int) -> float:
         dist = [0] * n
         dist[start_node] = 1
-        
+        #belman ford algo
         for _ in range(n - 1):
             updated = False
             for i, (u, v) in enumerate(edges):
