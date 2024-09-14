@@ -1,5 +1,6 @@
 class Solution:
     def longestSubarray(self, nums: List[int]) -> int:
+        #and -- if small num is and with large number the total and is small.. so longest subarray shld be of max number
         maxi=max(nums)
         lenn=1
         count=0
