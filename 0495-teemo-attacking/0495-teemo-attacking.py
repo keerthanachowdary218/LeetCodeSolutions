@@ -1,6 +1,8 @@
 class Solution:
     def findPoisonedDuration(self, timeSeries: List[int], duration: int) -> int:
-        '''sett=set()
+        '''
+        #not a optimal or good approach
+        sett=set()
         for i in timeSeries:
             for j in range(i,i+duration):
                 sett.add(j)
