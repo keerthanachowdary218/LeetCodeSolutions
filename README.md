@@ -27,6 +27,7 @@ Happy coding!
 ## Array
 |  |
 | ------- |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2476-check-distances-between-same-letters](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2476-check-distances-between-same-letters) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Hash Table
@@ -37,6 +38,7 @@ Happy coding!
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2476-check-distances-between-same-letters](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2476-check-distances-between-same-letters) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Prefix Sum
