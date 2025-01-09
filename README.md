@@ -34,6 +34,7 @@ Happy coding!
 | [2292-counting-words-with-a-given-prefix](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2476-check-distances-between-same-letters](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2476-check-distances-between-same-letters) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Happy coding!
 | [2292-counting-words-with-a-given-prefix](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2476-check-distances-between-same-letters](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2476-check-distances-between-same-letters) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -58,6 +60,7 @@ Happy coding!
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,4 +69,16 @@ Happy coding!
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
