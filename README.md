@@ -94,6 +94,7 @@ Happy coding!
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2509-minimize-xor) |
 ## Counting
 |  |
 | ------- |
@@ -101,5 +102,6 @@ Happy coding!
 ## Bit Manipulation
 |  |
 | ------- |
+| [2509-minimize-xor](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
