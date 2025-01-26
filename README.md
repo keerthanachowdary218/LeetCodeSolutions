@@ -30,6 +30,7 @@ Happy coding!
 | [0119-pascals-triangle-ii](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0119-pascals-triangle-ii) |
 | [0792-binary-search](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
+| [0978-valid-mountain-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1524-string-matching-in-an-array) |
