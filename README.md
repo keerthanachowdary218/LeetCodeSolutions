@@ -41,6 +41,7 @@ Happy coding!
 | [2292-counting-words-with-a-given-prefix](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2476-check-distances-between-same-letters](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2476-check-distances-between-same-letters) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -145,20 +146,24 @@ Happy coding!
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1876-map-of-highest-peak) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0898-transpose-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1876-map-of-highest-peak) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
