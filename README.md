@@ -30,6 +30,7 @@ Happy coding!
 | [0119-pascals-triangle-ii](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0119-pascals-triangle-ii) |
 | [0792-binary-search](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
+| [0861-flipping-an-image](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0898-transpose-matrix) |
 | [0978-valid-mountain-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -82,6 +83,7 @@ Happy coding!
 ## Two Pointers
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -117,6 +119,7 @@ Happy coding!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
 | [2509-minimize-xor](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -151,6 +154,7 @@ Happy coding!
 ## Matrix
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0898-transpose-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1876-map-of-highest-peak) |
@@ -170,6 +174,7 @@ Happy coding!
 ## Simulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0898-transpose-matrix) |
 ## Graph
 |  |
