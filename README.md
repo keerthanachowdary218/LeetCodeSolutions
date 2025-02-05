@@ -58,6 +58,7 @@ Happy coding!
 | ------- |
 | [0575-distribute-candies](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0575-distribute-candies) |
 | [1472-increasing-decreasing-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1472-increasing-decreasing-string) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2476-check-distances-between-same-letters](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2476-check-distances-between-same-letters) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -68,6 +69,7 @@ Happy coding!
 | [1524-string-matching-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -121,6 +123,7 @@ Happy coding!
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1472-increasing-decreasing-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1472-increasing-decreasing-string) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
