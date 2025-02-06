@@ -35,6 +35,7 @@ Happy coding!
 | [0898-transpose-matrix](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0898-transpose-matrix) |
 | [0978-valid-mountain-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1364-tuple-with-same-product](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1876-map-of-highest-peak) |
@@ -57,6 +58,7 @@ Happy coding!
 |  |
 | ------- |
 | [0575-distribute-candies](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0575-distribute-candies) |
+| [1364-tuple-with-same-product](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1364-tuple-with-same-product) |
 | [1472-increasing-decreasing-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1472-increasing-decreasing-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2476-check-distances-between-same-letters](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2476-check-distances-between-same-letters) |
@@ -121,6 +123,7 @@ Happy coding!
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1472-increasing-decreasing-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1472-increasing-decreasing-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
