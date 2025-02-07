@@ -53,6 +53,7 @@ Happy coding!
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ Happy coding!
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2476-check-distances-between-same-letters](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2476-check-distances-between-same-letters) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -188,6 +190,7 @@ Happy coding!
 | ------- |
 | [0861-flipping-an-image](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0898-transpose-matrix) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Graph
 |  |
 | ------- |
