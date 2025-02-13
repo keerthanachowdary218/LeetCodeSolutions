@@ -38,6 +38,7 @@ Happy coding!
 | [1364-tuple-with-same-product](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1524-string-matching-in-an-array) |
+| [1791-richest-customer-wealth](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -183,6 +184,7 @@ Happy coding!
 | [0861-flipping-an-image](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0898-transpose-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
+| [1791-richest-customer-wealth](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1876-map-of-highest-peak) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Depth-First Search
