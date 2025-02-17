@@ -27,6 +27,7 @@ Happy coding!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0119-pascals-triangle-ii](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0119-pascals-triangle-ii) |
 | [0575-distribute-candies](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0575-distribute-candies) |
 | [0792-binary-search](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0792-binary-search) |
@@ -62,6 +63,7 @@ Happy coding!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0575-distribute-candies](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0575-distribute-candies) |
 | [1364-tuple-with-same-product](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1364-tuple-with-same-product) |
 | [1472-increasing-decreasing-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1472-increasing-decreasing-string) |
