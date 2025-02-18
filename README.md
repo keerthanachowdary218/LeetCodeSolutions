@@ -128,6 +128,7 @@ Happy coding!
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3447-clear-digits) |
@@ -197,6 +198,7 @@ Happy coding!
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0684-redundant-connection](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -234,9 +236,11 @@ Happy coding!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->
