@@ -199,6 +199,7 @@ Happy coding!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -237,10 +238,16 @@ Happy coding!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
