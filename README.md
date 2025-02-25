@@ -79,6 +79,7 @@ Happy coding!
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## String
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Happy coding!
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -151,6 +153,7 @@ Happy coding!
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
