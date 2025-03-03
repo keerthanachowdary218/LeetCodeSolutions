@@ -48,6 +48,7 @@ Happy coding!
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2448-count-number-of-bad-pairs](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -120,6 +121,7 @@ Happy coding!
 | ------- |
 | [0861-flipping-an-image](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
@@ -231,6 +233,7 @@ Happy coding!
 | [0861-flipping-an-image](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2551-apply-operations-to-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3447-clear-digits) |
