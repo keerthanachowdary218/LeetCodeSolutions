@@ -69,6 +69,7 @@ Happy coding!
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3483-alternating-groups-ii) |
 | [3632-button-with-longest-push-time](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3632-button-with-longest-push-time) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -120,6 +121,7 @@ Happy coding!
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String Matching
 |  |
 | ------- |
@@ -186,6 +188,7 @@ Happy coding!
 | [2533-bitwise-xor-of-all-pairings](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2792-neighboring-bitwise-xor) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -309,5 +312,10 @@ Happy coding!
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3483-alternating-groups-ii) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
