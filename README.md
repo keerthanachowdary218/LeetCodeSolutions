@@ -31,6 +31,7 @@ Happy coding!
 | [0119-pascals-triangle-ii](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0119-pascals-triangle-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0575-distribute-candies) |
+| [0682-baseball-game](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
@@ -157,6 +158,7 @@ Happy coding!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0682-baseball-game](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3447-clear-digits) |
@@ -253,6 +255,7 @@ Happy coding!
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
