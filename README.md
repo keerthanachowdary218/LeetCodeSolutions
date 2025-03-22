@@ -100,6 +100,7 @@ Happy coding!
 ## String
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1078-remove-outermost-parentheses) |
 | [1472-increasing-decreasing-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1472-increasing-decreasing-string) |
 | [1524-string-matching-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -159,6 +160,7 @@ Happy coding!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0682-baseball-game](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0682-baseball-game) |
+| [1078-remove-outermost-parentheses](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3447-clear-digits) |
