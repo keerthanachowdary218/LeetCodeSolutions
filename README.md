@@ -230,6 +230,7 @@ Happy coding!
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1876-map-of-highest-peak) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -248,12 +249,14 @@ Happy coding!
 | [0684-redundant-connection](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Simulation
 |  |
 | ------- |
@@ -269,6 +272,7 @@ Happy coding!
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0684-redundant-connection) |
+| [2793-count-the-number-of-complete-components](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Design
 |  |
 | ------- |
