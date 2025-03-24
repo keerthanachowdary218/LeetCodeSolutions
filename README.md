@@ -69,6 +69,7 @@ Happy coding!
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3483-alternating-groups-ii) |
@@ -143,6 +144,7 @@ Happy coding!
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3430-count-days-without-meetings](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3430-count-days-without-meetings) |
 ## Trie
 |  |
 | ------- |
