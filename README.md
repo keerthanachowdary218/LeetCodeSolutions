@@ -51,6 +51,7 @@ Happy coding!
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -145,6 +146,7 @@ Happy coding!
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3430-count-days-without-meetings](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -214,6 +216,7 @@ Happy coding!
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2649-count-total-number-of-colored-cells) |
@@ -245,6 +248,7 @@ Happy coding!
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1791-richest-customer-wealth](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1876-map-of-highest-peak) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Depth-First Search
