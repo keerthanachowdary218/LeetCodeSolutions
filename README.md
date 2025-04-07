@@ -114,6 +114,7 @@ Happy coding!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0768-partition-labels](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0768-partition-labels) |
 | [1078-remove-outermost-parentheses](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1078-remove-outermost-parentheses) |
 | [1472-increasing-decreasing-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1472-increasing-decreasing-string) |
@@ -148,6 +149,7 @@ Happy coding!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0768-partition-labels](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -223,6 +225,7 @@ Happy coding!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0119-pascals-triangle-ii](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
