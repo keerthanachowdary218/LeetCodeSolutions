@@ -31,6 +31,7 @@ Happy coding!
 | [0056-merge-intervals](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0056-merge-intervals) |
 | [0119-pascals-triangle-ii](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0416-partition-equal-subset-sum](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0682-baseball-game) |
@@ -228,6 +229,7 @@ Happy coding!
 | [0005-longest-palindromic-substring](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0119-pascals-triangle-ii](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0416-partition-equal-subset-sum](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2262-solving-questions-with-brainpower](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2262-solving-questions-with-brainpower) |
 ## Math
