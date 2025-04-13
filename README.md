@@ -31,6 +31,7 @@ Happy coding!
 | [0056-merge-intervals](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0056-merge-intervals) |
 | [0119-pascals-triangle-ii](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0347-top-k-frequent-elements](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0575-distribute-candies) |
@@ -90,6 +91,7 @@ Happy coding!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0575-distribute-candies) |
 | [0768-partition-labels](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0768-partition-labels) |
@@ -161,6 +163,7 @@ Happy coding!
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0924-fair-candy-swap](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0924-fair-candy-swap) |
 | [1019-squares-of-a-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -198,6 +201,7 @@ Happy coding!
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [1364-tuple-with-same-product](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1472-increasing-decreasing-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1472-increasing-decreasing-string) |
@@ -319,6 +323,7 @@ Happy coding!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [2434-design-a-number-container-system](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Ordered Set
@@ -356,6 +361,7 @@ Happy coding!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Number Theory
 |  |
@@ -372,4 +378,12 @@ Happy coding!
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
