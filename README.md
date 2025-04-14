@@ -50,6 +50,7 @@ Happy coding!
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1524-string-matching-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1524-string-matching-in-an-array) |
+| [1656-count-good-triplets](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1656-count-good-triplets) |
 | [1791-richest-customer-wealth](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -357,6 +358,7 @@ Happy coding!
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1656-count-good-triplets) |
 | [2528-number-of-valid-clock-times](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2528-number-of-valid-clock-times) |
 ## Divide and Conquer
 |  |
