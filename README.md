@@ -38,6 +38,7 @@ Happy coding!
 | [0682-baseball-game](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [0777-toeplitz-matrix](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0898-transpose-matrix) |
@@ -99,6 +100,7 @@ Happy coding!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0575-distribute-candies) |
 | [0768-partition-labels](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0924-fair-candy-swap](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0924-fair-candy-swap) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -204,6 +206,7 @@ Happy coding!
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2509-minimize-xor) |
 ## Counting
@@ -248,6 +251,7 @@ Happy coding!
 ## Math
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
