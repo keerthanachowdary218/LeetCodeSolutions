@@ -277,6 +277,7 @@ Happy coding!
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0684-redundant-connection](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0684-redundant-connection) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
@@ -301,6 +302,7 @@ Happy coding!
 | [0094-binary-tree-inorder-traversal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0684-redundant-connection](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0684-redundant-connection) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -351,6 +353,7 @@ Happy coding!
 | [0098-validate-binary-search-tree](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -361,6 +364,7 @@ Happy coding!
 | [0098-validate-binary-search-tree](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
