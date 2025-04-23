@@ -108,6 +108,7 @@ Happy coding!
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1364-tuple-with-same-product) |
 | [1472-increasing-decreasing-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1472-increasing-decreasing-string) |
+| [1500-count-largest-group](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2434-design-a-number-container-system) |
@@ -259,6 +260,7 @@ Happy coding!
 | [0830-largest-triangle-area](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1500-count-largest-group](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
