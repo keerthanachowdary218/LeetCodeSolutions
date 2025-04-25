@@ -1,17 +1,17 @@
-import math
+class Solution(object):
+    def majorityElement(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        count = 0
+        candidate = None
 
-class Solution:
-    def majorityElement(self, nums: List[int]) -> int:
-        if len(nums) == 1:
-            return nums[0]
-        mid = len(nums) // 2
-        left = self.majorityElement(nums[:mid])
-        right= self.majorityElement(nums[mid:])
-        if left == right:
-            return left
-        left_count = nums.count(left)
-        right_count = nums.count(right)
-        return left if left_count > right_count else right
-
-            
-        
+        for num in nums:
+            if count == 0:
+                candidate = num
+            if num == candidate:
+                count += 1 
+            else:
+                count-=1
+        return candidate
