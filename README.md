@@ -42,6 +42,7 @@ Happy coding!
 | [0792-binary-search](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
+| [0841-shortest-distance-to-a-character](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -132,6 +133,7 @@ Happy coding!
 | [0299-bulls-and-cows](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0299-bulls-and-cows) |
 | [0468-validate-ip-address](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0468-validate-ip-address) |
 | [0768-partition-labels](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0768-partition-labels) |
+| [0841-shortest-distance-to-a-character](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0841-shortest-distance-to-a-character) |
 | [1078-remove-outermost-parentheses](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1078-remove-outermost-parentheses) |
 | [1472-increasing-decreasing-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1472-increasing-decreasing-string) |
 | [1524-string-matching-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1524-string-matching-in-an-array) |
@@ -168,6 +170,7 @@ Happy coding!
 | [0005-longest-palindromic-substring](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0768-partition-labels](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0768-partition-labels) |
+| [0841-shortest-distance-to-a-character](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2265-partition-array-according-to-given-pivot) |
