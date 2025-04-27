@@ -16,6 +16,14 @@ class Solution(object):
                 idx+=1
                 res[i]=min(res[i],idx)
         print(res)
+        for i in range(len(s)-1,-1,-1):
+            if s[i]==c:
+                res[i]=0
+                idx=0
+            else:
+                idx+=1
+                res[i]=min(res[i],idx)
+        return res
         for i in range(len(s)-2,-1,-1):
             res[i]=min(res[i+1]+1,res[i])
         return res
