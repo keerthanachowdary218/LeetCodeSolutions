@@ -49,6 +49,7 @@ Happy coding!
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0924-fair-candy-swap](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0924-fair-candy-swap) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0932-monotonic-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1364-tuple-with-same-product](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1364-tuple-with-same-product) |
