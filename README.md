@@ -138,6 +138,7 @@ Happy coding!
 | [0468-validate-ip-address](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0468-validate-ip-address) |
 | [0768-partition-labels](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0841-shortest-distance-to-a-character) |
+| [0851-goat-latin](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0851-goat-latin) |
 | [1078-remove-outermost-parentheses](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1078-remove-outermost-parentheses) |
 | [1472-increasing-decreasing-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1472-increasing-decreasing-string) |
 | [1524-string-matching-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1524-string-matching-in-an-array) |
