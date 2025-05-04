@@ -53,6 +53,7 @@ Happy coding!
 | [0932-monotonic-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -113,6 +114,7 @@ Happy coding!
 | [0924-fair-candy-swap](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0924-fair-candy-swap) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1364-tuple-with-same-product) |
 | [1472-increasing-decreasing-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1472-increasing-decreasing-string) |
 | [1500-count-largest-group](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1500-count-largest-group) |
@@ -233,6 +235,7 @@ Happy coding!
 | [0299-bulls-and-cows](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1472-increasing-decreasing-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1472-increasing-decreasing-string) |
