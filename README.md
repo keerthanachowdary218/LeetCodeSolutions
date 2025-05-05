@@ -34,6 +34,7 @@ Happy coding!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0575-distribute-candies) |
@@ -105,6 +106,7 @@ Happy coding!
 | [0169-majority-element](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -176,6 +178,7 @@ Happy coding!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0768-partition-labels](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
@@ -191,6 +194,7 @@ Happy coding!
 | [0088-merge-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0924-fair-candy-swap](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0924-fair-candy-swap) |
 | [1019-squares-of-a-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -293,6 +297,7 @@ Happy coding!
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0924-fair-candy-swap) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
