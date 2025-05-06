@@ -108,6 +108,7 @@ Happy coding!
 | [0299-bulls-and-cows](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -140,6 +141,7 @@ Happy coding!
 | [0005-longest-palindromic-substring](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0038-count-and-say) |
 | [0299-bulls-and-cows](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0299-bulls-and-cows) |
+| [0389-find-the-difference](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0468-validate-ip-address](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0468-validate-ip-address) |
 | [0768-partition-labels](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0841-shortest-distance-to-a-character) |
@@ -196,6 +198,7 @@ Happy coding!
 | [0169-majority-element](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0924-fair-candy-swap](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0924-fair-candy-swap) |
 | [1019-squares-of-a-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -253,6 +256,7 @@ Happy coding!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2308-divide-array-into-equal-pairs](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2308-divide-array-into-equal-pairs) |
