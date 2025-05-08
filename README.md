@@ -59,6 +59,7 @@ Happy coding!
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1524-string-matching-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1524-string-matching-in-an-array) |
+| [1547-destination-city](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1547-destination-city) |
 | [1656-count-good-triplets](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1656-count-good-triplets) |
 | [1791-richest-customer-wealth](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1876-map-of-highest-peak) |
@@ -122,6 +123,7 @@ Happy coding!
 | [1364-tuple-with-same-product](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1364-tuple-with-same-product) |
 | [1472-increasing-decreasing-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1472-increasing-decreasing-string) |
 | [1500-count-largest-group](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1500-count-largest-group) |
+| [1547-destination-city](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1547-destination-city) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2434-design-a-number-container-system) |
@@ -150,6 +152,7 @@ Happy coding!
 | [1472-increasing-decreasing-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1472-increasing-decreasing-string) |
 | [1524-string-matching-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1547-destination-city](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1547-destination-city) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
