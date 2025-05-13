@@ -69,6 +69,7 @@ Happy coding!
 | [2048-build-array-from-permutation](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2048-build-array-from-permutation) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2215-finding-3-digit-even-numbers](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2262-solving-questions-with-brainpower](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -125,6 +126,7 @@ Happy coding!
 | [1500-count-largest-group](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1500-count-largest-group) |
 | [1547-destination-city](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1547-destination-city) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2215-finding-3-digit-even-numbers](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -207,6 +209,7 @@ Happy coding!
 | [0924-fair-candy-swap](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0924-fair-candy-swap) |
 | [1019-squares-of-a-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2215-finding-3-digit-even-numbers](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -417,6 +420,7 @@ Happy coding!
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1656-count-good-triplets) |
+| [2215-finding-3-digit-even-numbers](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2528-number-of-valid-clock-times](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2528-number-of-valid-clock-times) |
 ## Divide and Conquer
 |  |
