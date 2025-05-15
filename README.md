@@ -89,6 +89,7 @@ Happy coding!
 | [2792-neighboring-bitwise-xor](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -166,6 +167,7 @@ Happy coding!
 | [2476-check-distances-between-same-letters](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2476-check-distances-between-same-letters) |
 | [2528-number-of-valid-clock-times](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2528-number-of-valid-clock-times) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -243,6 +245,7 @@ Happy coding!
 | [0797-rabbits-in-forest](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2509-minimize-xor) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Counting
 |  |
 | ------- |
@@ -286,6 +289,7 @@ Happy coding!
 | [0416-partition-equal-subset-sum](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2262-solving-questions-with-brainpower](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2262-solving-questions-with-brainpower) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Math
 |  |
 | ------- |
