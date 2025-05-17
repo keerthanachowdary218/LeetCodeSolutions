@@ -29,6 +29,7 @@ Happy coding!
 | ------- |
 | [0001-two-sum](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -190,6 +191,7 @@ Happy coding!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -205,6 +207,7 @@ Happy coding!
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
