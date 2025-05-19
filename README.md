@@ -95,6 +95,7 @@ Happy coding!
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3430-count-days-without-meetings) |
@@ -221,6 +222,7 @@ Happy coding!
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3321-type-of-triangle](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Trie
@@ -311,6 +313,7 @@ Happy coding!
 | [2610-closest-prime-numbers-in-range](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3321-type-of-triangle) |
 ## Geometry
 |  |
 | ------- |
