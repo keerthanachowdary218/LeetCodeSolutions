@@ -29,6 +29,7 @@ Happy coding!
 | ------- |
 | [0001-two-sum](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0119-pascals-triangle-ii) |
@@ -111,6 +112,7 @@ Happy coding!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
@@ -344,6 +346,7 @@ Happy coding!
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0777-toeplitz-matrix](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0898-transpose-matrix) |
