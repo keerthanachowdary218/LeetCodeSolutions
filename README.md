@@ -41,6 +41,7 @@ Happy coding!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [0777-toeplitz-matrix](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0792-binary-search) |
@@ -256,6 +257,7 @@ Happy coding!
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
