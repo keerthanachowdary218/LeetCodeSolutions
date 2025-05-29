@@ -57,6 +57,7 @@ Happy coding!
 | [0932-monotonic-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1168-duplicate-zeros) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1293-three-consecutive-odds) |
 | [1364-tuple-with-same-product](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1364-tuple-with-same-product) |
@@ -207,6 +208,7 @@ Happy coding!
 | [0841-shortest-distance-to-a-character](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1168-duplicate-zeros) |
 | [1894-merge-strings-alternately](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2551-apply-operations-to-an-array) |
