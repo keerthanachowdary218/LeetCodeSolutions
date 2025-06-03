@@ -31,6 +31,7 @@ Happy coding!
 | [0056-merge-intervals](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -154,6 +155,7 @@ Happy coding!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0299-bulls-and-cows](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0434-number-of-segments-in-a-string) |
@@ -354,6 +356,7 @@ Happy coding!
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0777-toeplitz-matrix](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0898-transpose-matrix) |
@@ -367,6 +370,7 @@ Happy coding!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -477,4 +481,8 @@ Happy coding!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
