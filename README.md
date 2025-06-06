@@ -32,6 +32,7 @@ Happy coding!
 | [0056-merge-intervals](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0119-pascals-triangle-ii) |
@@ -288,6 +289,7 @@ Happy coding!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -486,5 +488,6 @@ Happy coding!
 |  |
 | ------- |
 | [0046-permutations](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
