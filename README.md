@@ -312,6 +312,7 @@ Happy coding!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1013-fibonacci-number](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [2262-solving-questions-with-brainpower](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2262-solving-questions-with-brainpower) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Math
@@ -320,6 +321,7 @@ Happy coding!
 | [0797-rabbits-in-forest](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0830-largest-triangle-area) |
 | [0928-surface-area-of-3d-shapes](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0928-surface-area-of-3d-shapes) |
+| [1013-fibonacci-number](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1500-count-largest-group](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1500-count-largest-group) |
@@ -497,4 +499,12 @@ Happy coding!
 | [0046-permutations](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0079-word-search) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
