@@ -352,6 +352,7 @@ Happy coding!
 | [0684-redundant-connection](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0684-redundant-connection) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1876-map-of-highest-peak](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1876-map-of-highest-peak) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2793-count-the-number-of-complete-components) |
@@ -383,6 +384,7 @@ Happy coding!
 | [0684-redundant-connection](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0684-redundant-connection) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
@@ -435,6 +437,7 @@ Happy coding!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -447,6 +450,7 @@ Happy coding!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
