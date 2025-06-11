@@ -152,6 +152,7 @@ Happy coding!
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
@@ -187,6 +188,7 @@ Happy coding!
 | [3447-clear-digits](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -286,6 +288,7 @@ Happy coding!
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
 |  |
 | ------- |
