@@ -77,6 +77,7 @@ Happy coding!
 | [1927-maximum-ascending-subarray-sum](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2048-build-array-from-permutation](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2048-build-array-from-permutation) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2262-solving-questions-with-brainpower](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2262-solving-questions-with-brainpower) |
