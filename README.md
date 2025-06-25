@@ -85,6 +85,7 @@ Happy coding!
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2476-check-distances-between-same-letters](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2476-check-distances-between-same-letters) |
@@ -221,6 +222,7 @@ Happy coding!
 | [1168-duplicate-zeros](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1168-duplicate-zeros) |
 | [1894-merge-strings-alternately](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2551-apply-operations-to-an-array) |
 | [2634-minimum-common-value](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2699-count-the-number-of-fair-pairs) |
