@@ -66,6 +66,7 @@ Happy coding!
 | [1364-tuple-with-same-product](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1547-destination-city) |
@@ -140,6 +141,7 @@ Happy coding!
 | [1364-tuple-with-same-product](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1364-tuple-with-same-product) |
 | [1472-increasing-decreasing-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1472-increasing-decreasing-string) |
 | [1500-count-largest-group](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1500-count-largest-group) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1547-destination-city) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2215-finding-3-digit-even-numbers](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -292,6 +294,7 @@ Happy coding!
 | [1364-tuple-with-same-product](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1472-increasing-decreasing-string](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1472-increasing-decreasing-string) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/keerthanachowdary218/LeetCodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
